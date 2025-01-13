@@ -1,5 +1,4 @@
-{
-  "states": [
+[
     { "id": "AL", "name": "AL" },
     { "id": "AK", "name": "AK" },
     { "id": "AZ", "name": "AZ" },
@@ -50,5 +49,4 @@
     { "id": "WV", "name": "WV" },
     { "id": "WI", "name": "WI" },
     { "id": "WY", "name": "WY" }
-  ]
-}
+]
